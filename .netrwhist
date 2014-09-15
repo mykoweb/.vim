@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mkim/src/izac/lib/generators/izac'
+let g:netrw_dirhist_2='/Users/mkim/src/izac/lib/izac'
+let g:netrw_dirhist_3='/Users/mkim/src/nixons_head/spec/models'
+let g:netrw_dirhist_4='/Users/mkim/src/mom_account_models/app/models/notification'
+let g:netrw_dirhist_5='/Users/mkim/src/mom_account_models/app/models'
+let g:netrw_dirhist_6='/Users/mkim/src/nimbus/app/interactors'
+let g:netrw_dirhist_7='/Users/mkim/src/nibbler/app/serializers/content'
